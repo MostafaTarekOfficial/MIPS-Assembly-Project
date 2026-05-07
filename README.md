@@ -175,7 +175,7 @@ int main() {
 
 ### MIPS Assembly (using MARS Simulator)
 
-1. Download [MARS MIPS Simulator](http://courses.missouristate.edu/KenVollmar/mars/)
+1. Download [MARS MIPS Simulator](https://dpetersanderson.github.io/download.html)
 2. Open `Project_Arch.asm`
 3. Press **Assemble (F3)** then **Run (F5)**
 4. Enter the three numbers when prompted, then choose `1` for sum or `2` for subtraction
